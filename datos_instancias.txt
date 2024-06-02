@@ -1,0 +1,4 @@
+instancia creada con IP  
+instancia    destruida! 
+instancia creada con IP  
+instancia creada con IP  
